@@ -42,6 +42,16 @@ The PDF Audiobook Player is a Python project that allows you to convert PDF file
 5. Adjust the speech rate using the slider provided.
 6. Click the "Stop" button to stop the audio playback.
 
+## Resources
+
+- [pyttsx3 Documentation](https://pyttsx3.readthedocs.io/)
+- [Text-to-Speech in Python with pyttsx3 - GeeksforGeeks](https://www.geeksforgeeks.org/text-to-speech-in-python-with-pyttsx3/)
+- [PyPDF2 Documentation](https://pythonhosted.org/PyPDF2/)
+- [Working with PDF Files in Python - Real Python](https://realpython.com/pdf-python/)
+- [Tkinter GUI Programming by Example - David Love]
+- [Python GUI Programming with Tkinter - Sentdex (YouTube tutorial series)](https://youtube.com/playlist?list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk)
+- [Tkinter file dialog - Effbot.org](http://effbot.org/tkinterbook/tkinter-file-dialogs.htm)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
@@ -49,10 +59,5 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgements
-
-- [Pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Text-to-speech conversion library.
-- [PyPDF2](https://github.com/mstamy2/PyPDF2) - PDF parsing library.
 
 Feel free to customize the README file by adding additional sections, such as troubleshooting, FAQ, or project-specific instructions, based on your project's needs.
