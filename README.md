@@ -1,5 +1,3 @@
-Here's a template for the README file of your PDF Audiobook Player project:
-
 # PDF Audiobook Player
 
 The PDF Audiobook Player is a Python project that allows you to convert PDF files into audio format, enabling you to listen to PDF content as an audiobook. This project utilizes the pyttsx3 library for text-to-speech conversion and the PyPDF2 library for PDF parsing.
